@@ -52,4 +52,4 @@ Created compelling visualizations and interactive dashboards to present actionab
 ## 🔗 Project Links
 - [Interactive Dashboard – Looker Studio](#)
 - [IBM Cognos Analytics Dashboard](#)
-- [Jupyter Notebook]([#](https://github.com/Istiak-Alam/IBM-PYTHON-CAPSTON-PROJECT-FINAL-/blob/main/Dashboards_on_Cognos.pdf))
+- [Jupyter Notebook](https://github.com/Istiak-Alam/IBM-PYTHON-CAPSTON-PROJECT-FINAL-/blob/main/Dashboards_on_Cognos.pdf))
