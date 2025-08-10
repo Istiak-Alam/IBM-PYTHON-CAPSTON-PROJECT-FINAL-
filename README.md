@@ -46,10 +46,3 @@ Created compelling visualizations and interactive dashboards to present actionab
 <img src="Dashboards_on_Cognos (1)-images-0.jpg" alt="Dashboard Image" width="600" />
 <img src="Dashboards_on_Cognos (1)-images-1.jpg" alt="Dashboard Image" width="600" />
 <img src="Dashboards_on_Cognos (1)-images-2.jpg" alt="Dashboard Image" width="600" />
-
----
-
-## 🔗 Project Links
-- [Interactive Dashboard – Looker Studio](#)
-- [IBM Cognos Analytics Dashboard](#)
-- [Jupyter Notebook](https://github.com/Istiak-Alam/IBM-PYTHON-CAPSTON-PROJECT-FINAL-/blob/main/Dashboards_on_Cognos.pdf))
